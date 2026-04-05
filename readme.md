@@ -20,9 +20,9 @@ Note: OS recommendation - Linux Ubuntu based.
 
 ## Components
 1. Nginx 1.29
-2. PHP 8.4 fpm
+2. PHP 8.5 fpm
 3. MySQL 8
-4. Laravel 12
+4. Laravel 13
 5. Mailpit (only for debug emails on dev environment)
 
 ## Setting up Docker Engine with Docker Compose
